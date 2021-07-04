@@ -14,8 +14,6 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-
-
 <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 <script src="assets/bootstrap/js/bootstrap.js"></script>
 
@@ -89,8 +87,8 @@
 		</div>
 
 		<!-- Controls -->
-		<a class="left arrow" href="#carousel-testimonials" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-		<a class="right arrow" href="#carousel-testimonials" data-slide="next"><i class="fa fa-angle-right"></i></a>
+		<a class="left arrow" href="#carousel-testimonials" data-slide="prev"></a>
+		<a class="right arrow" href="#carousel-testimonials" data-slide="next"></a>
 		<!-- Controls -->
 	</div>
 
@@ -98,13 +96,6 @@
 	</div>
 	</div>
 	<!-- testimonials -->
-
-
-
-
-
-
-
 
 	</div>
 
@@ -133,7 +124,7 @@
 	<!-- contact -->
 
 
-	<a href="#top" class="toTop scroll"><i class="fa fa-angle-up"></i></a>
+	<a href="#top" class="toTop scroll"></a>
 
 
 	<!-- gridloading script -->
