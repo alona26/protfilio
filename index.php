@@ -26,6 +26,8 @@
 <link rel="stylesheet" href="assets/gridloading/css/component.css">
 <link rel="stylesheet" href="assets/animate.css">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="css/style1.css">
+
 
 
 
@@ -42,8 +44,8 @@
 							<h1 class="info animated fadeInDown"><a href="" class="logo"><br><u>Alona
 										Rozner</u></a><br>I'm <span><b>software engineering student.</b></span></h1>
 							<a href="#works" class="btn scroll animated bounceInUp">My Work</a>
-							<a href="#contact" class="btn scroll animated bounceInDown">Contact me</a>
 							<a href="#contact" class="btn scroll animated bounceInDown">CV</a>
+							<a href="#contact" class="btn scroll animated bounceInDown">Contact me</a>
 						</div>
 						<div class="col-sm-4 col-sm-offset-1">
 							<div class="connect-icon">
@@ -54,15 +56,6 @@
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-	</div>
-	<!-- CV -->
-	<div class="center">
-		<div id="CV" class="portfolio spacer">
-			<div class="container">
-				<h2>CV</h2>
-				<a class="btn scroll animated bounceInUp" href="cv/Alona Rozner.pdf" download>Download File</a>
 			</div>
 		</div>
 	</div>
@@ -99,6 +92,15 @@
 
 	</div>
 
+	<!-- CV -->
+	<div class="center">
+		<div id="CV" class="portfolio spacer">
+			<div class="container">
+				<h2>CV</h2>
+				<a class="btn scroll animated bounceInUp" href="cv/Alona Rozner.pdf" download>Download File</a>
+			</div>
+		</div>
+	</div>
 
 	<!-- contact -->
 	<div id="contact" class="footer center spacer">
@@ -115,15 +117,18 @@
 								width="32"></a>
 						<a href="https://web.whatsapp.com/"><img alt="whatsapp" src="images/whatsapp-logo.png"
 								width="32"></a>
-					</div>
-				</div>
+								<br>
+								<a href="https://www.shenkar.ac.il/he/departments/engineering-software-department" id="look">
+								</span><p>
+								תואר ראשון בהנדסת תוכנה בשנקר</p><span id="shenkar_logo">
+						</a>		
+
+							</div>
+
+						</div>
 			</div>
 		</div>
 	</div>
-
-	<!-- contact -->
-
-
 	<a href="#top" class="toTop scroll"></a>
 
 
